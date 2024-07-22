@@ -42,7 +42,7 @@ Instead of migrating, you’ll have the following alternatives:
     <figure><img src="../.gitbook/assets/Join Anytype.png" alt="" width="354"><figcaption></figcaption></figure>
 
     </div>
-* Manually import selected Objects one by one from Legacy to Beta. You may want to do this if your Legacy vault / account has become messy but you have a few projects you’d like to carry over to Beta.
+* Manually import selected Objects one by one from Legacy to Beta. You may want to do this if your Legacy vault / account has become messy, but you have a few projects you’d like to carry over to Beta.
 
 For these options, you’ll need to create a new vault, which will generate a new Key.
 

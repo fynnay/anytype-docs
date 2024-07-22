@@ -38,7 +38,7 @@ You can check our full roadmap [here](https://github.com/orgs/anyproto/projects/
 
 ### Mobile Features
 
-Here is a running list of features and their implementation status, by platform. All of the features listed are implemented on desktop 0.40.\*, and the mobile versions used for comparison are both 0.29.\*.
+Here is a running list of features and their implementation status, by platform. All the features listed are implemented on desktop 0.40.\*, and the mobile versions used for comparison are both 0.29.\*.
 
 {% tabs %}
 {% tab title="Vault" %}

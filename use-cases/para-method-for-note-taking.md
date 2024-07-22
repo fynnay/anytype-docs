@@ -4,7 +4,7 @@ description: >-
   brain.
 ---
 
-# 🧠 PARA Method for Note taking
+# 🧠 PARA Method for Note-taking
 
 {% embed url="https://www.youtube.com/watch?v=rgBS46Scw4Q" %}
 

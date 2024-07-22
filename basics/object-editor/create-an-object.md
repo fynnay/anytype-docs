@@ -16,7 +16,7 @@ The hover setting will additionally show the original menu after you hover over 
 
 ### Forward Slash Command
 
-When working in Anytype you can create a new Object by typing the "/". This will bring up the list of Objects that you have created. Simply select the Object you'd like to create and it will be linked at your current place.
+When working in Anytype you can create a new Object by typing the "/". This will bring up the list of Objects that you have created. Simply select the Object you'd like to create, and it will be linked at your current place.
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
