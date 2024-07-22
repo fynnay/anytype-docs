@@ -4,7 +4,7 @@
 
 <summary>Are there any network requests when using local-only mode?</summary>
 
-We can guarantee that there are no network requests to our Anytype Network, but our telemetry will still send requests (you will be able to opt-out later on). Additionally, the client still needs to to send requests for some of the features (embedding blocks, fetching bookmarks, etc.) to work properly.
+We can guarantee that there are no network requests to our Anytype Network, but our telemetry will still send requests (you will be able to opt out later on). Additionally, the client still needs to send requests for some of the features (embedding blocks, fetching bookmarks, etc.) to work properly.
 
 </details>
 
@@ -40,7 +40,7 @@ If you’re experiencing issues with Anytype, such as after a sudden power loss,
 1. Launch Anytype: Open the Anytype application on your computer.
 2. Check for Normal Operation: Anytype should now launch without issues. It will create a new localstore database automatically.
 
-If after these steps Anytype still doesn’t launch, probably you have spacestore database corrupted. Please take a look at this instruction [A tool to fix the 'Anytype Helper Crashed' Issue 2](https://community.anytype.io/t/a-tool-to-fix-the-anytype-helper-crashed-issue/13653).
+If after these steps Anytype still doesn’t launch, probably you have spacestore database corrupted. Please take a look at this instruction [A tool to fix the "Anytype Helper Crashed" Issue 2](https://community.anytype.io/t/a-tool-to-fix-the-anytype-helper-crashed-issue/13653).
 
 </details>
 

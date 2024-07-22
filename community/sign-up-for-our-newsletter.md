@@ -1,6 +1,6 @@
 # Sign Up for Our Newsletter!
 
-### Join our newsletter club and stay up to date with all of the latest announcements.&#x20;
+### Join our newsletter club and stay up to date with all the latest announcements.&#x20;
 
 We have some very exciting stuff coming up from **Update Releases, Town Halls, and other Community news and events.**&#x20;
 

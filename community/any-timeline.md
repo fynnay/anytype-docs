@@ -15,7 +15,7 @@
 
 ### Beta (current)
 
-* The first beta release was 0.32.0 and it was released on 15 June 2023. Alpha users who wanted to keep their data needed to migrate to the new app.
+* The first beta release was 0.32.0, and it was released on 15 June 2023. Alpha users who wanted to keep their data needed to migrate to the new app.
 * The official open beta launch was on 19 July 2023.
 
 ### Public Release

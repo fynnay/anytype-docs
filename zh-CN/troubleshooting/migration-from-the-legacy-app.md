@@ -25,6 +25,6 @@ Learn more by viewing [**A First Look At Our New Beta Software**](https://commun
 除了迁移，你还有以下选择：
 
 * Start fresh with our Beta app
-* Selectively import your Objects one by one from Legacy to Beta _(You may want to do this if your Legacy account has become messy but you have a few projects you’d like to carry over to Beta)._
+* Selectively import your Objects one by one from Legacy to Beta _(You may want to do this if your Legacy account has become messy, but you have a few projects you’d like to carry over to Beta)._
 
 对于这些选择，你都需要创建一个新账户，这将生成一个新的【恢复短语】。

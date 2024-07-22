@@ -4,7 +4,7 @@ description: How do we customize and edit?
 
 # Sidebar & Widgets
 
-Your sidebar is comprised of customizable widgets which allow you to preview and navigate your Objects.
+Your sidebar consists of customizable widgets which allow you to preview and navigate your Objects.
 
 By default, your sidebar includes widgets which link to your [Library](../../basics/anytype-library.md) and Bin.
 
@@ -34,7 +34,7 @@ On desktop, you can also drag & drop objects directly into the sidebar.
 
 Depending on the widget source, you can choose from a variety of layouts.
 
-It is possible to view widgets sourced from a single Object created in the editor (Pages, Notes, etc.) as a 'link' or a 'tree'. A link widget displays only the object name, whereas a tree widget displays all of objects connected to the source object by first and second-degree connections.
+It is possible to view widgets sourced from a single Object created in the editor (Pages, Notes, etc.) as a 'link' or a 'tree'. A link widget displays only the object name, whereas a tree widget displays all objects connected to the source object by first and second-degree connections.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-18 at 09.01.31.png" alt=""><figcaption><p>Above, 'the 'Self' widget is displayed using tree view whereas the 'Home' widget is displayed using link view.</p></figcaption></figure>
 

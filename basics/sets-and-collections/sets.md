@@ -18,7 +18,7 @@ Sets are a way to see a portion of your Graph, and Objects you've created, based
 
 1. **Organizing and Accessing Objects**\
    \
-   We often get requests along the lines of: _How do I find all of the Notes I've created?_\
+   We often get requests along the lines of: _How do I find all the Notes I've created?_\
    \
    One easy way is to create a Set based on Type.\
    For example; Note, which will display every Note you've created in Anytype.\

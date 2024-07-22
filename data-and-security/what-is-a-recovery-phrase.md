@@ -16,7 +16,7 @@ Changing it is impossible, and it's extremely important you keep it safe. You ca
 
 We do not save a copy of your key, which means that if it's lost, we are not able to assist with recovering your vault. For this reason, we recommend making a digital backup or writing it down and keeping it somewhere safe.
 
-You will need this key each time you login on a new device.
+You will need this key each time you log in on a new device.
 
 ### What is a Key?
 
@@ -38,11 +38,11 @@ However, it's crucial to understand that the responsibility of protecting your k
 
 ### Key storage
 
-If you’re using a Mac, Anytype’s default setting is to store your key in the native Keychain Access app. It doesn’t get stored anywhere else. Whether your passwords are backed up to iCloud depends if you have that option enabled in your settings. You can check [Apple’s support page](https://support.apple.com/en-us/HT204085) for more information on iCloud password backups.
+If you’re using a Mac, Anytype’s default setting is to store your key in the native Keychain Access app. It doesn’t get stored anywhere else. Whether your passwords are backed up to iCloud depends on if you have that option enabled in your settings. You can check [Apple’s support page](https://support.apple.com/en-us/HT204085) for more information on iCloud password backups.
 
 We’ve set up this system as a safety net for users who might otherwise lose their Key. We’re pursuing different options for the future, but for the time being, this is how it works.
 
-If you logged in with your key on your mac, then you can find it here:
+If you logged in with your key on your Mac, then you can find it here:
 
 1. Click and open Finder from the dock.
 2. Click on Applications & open Utilities.

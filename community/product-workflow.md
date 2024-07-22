@@ -2,13 +2,13 @@
 
 ### Why we build what we build
 
-The community has been the cornerstone of our work since Day 1. Today, we will attempt to open the product processes behind Anytype. This will be the first step and we hope to continue it in the future with more details if it is deemed valuable to the community.
+The community has been the cornerstone of our work since Day 1. Today, we will attempt to open the product processes behind Anytype. This will be the first step, and we hope to continue it in the future with more details if it is deemed valuable to the community.
 
 _There are always two critical questions regarding product work:_
 
 <figure><img src="../.gitbook/assets/SCR-20231115-hz3.jpeg" alt=""><figcaption></figcaption></figure>
 
-Before jumping to these ones, let's cover the basics.
+Before jumping to these, let's cover the basics.
 
 ### Work process
 

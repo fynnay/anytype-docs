@@ -16,4 +16,4 @@ If you are organizing your meal prep for the week, you might have a list of reci
 
 The main types you may have could be Recipes and Ingredients.&#x20;
 
-In a Collection, you can organize all of this Types together seamlessly.&#x20;
+In a Collection, you can organize all of these Types together seamlessly.&#x20;

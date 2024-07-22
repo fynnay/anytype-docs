@@ -18,7 +18,7 @@ Make sure you store your [what-is-a-recovery-phrase.md](../../data-and-security/
 
 #### Log-in using the QR code
 
-In addition to using your key to log in, you can also use the QR code to login faster if your desktop is close by.
+In addition to using your key to log in, you can also use the QR code to log in faster if your desktop is close by.
 
 To log in using the QR code, simply navigate to your Key.
 

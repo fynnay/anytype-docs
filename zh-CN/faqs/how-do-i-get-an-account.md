@@ -17,7 +17,7 @@ This hour-long session, run by the Anytype community team, is designed to give y
 {% endhint %}
 
 2. After the onboarding session you get an email with:
-* An invite code to your the Anytype Community on [Discourse](https://community.anytype.io/) 
+* An invite code to the Anytype Community on [Discourse](https://community.anytype.io/) 
 * Your invite code to sign up in the Anytype application
 
 3. Download the Anytype software if you haven't already and use the "Sign up" option to set up your account
@@ -26,9 +26,9 @@ This hour-long session, run by the Anytype community team, is designed to give y
 Make sure you use the Anytype invite code you received via email and not the invite code for the Discourse forum!
 {% endhint %}
 
-4. Off you go! You are now an *Alpha user*. Make sure to checkout the [Anytype Docs](https://doc.anytype.io/d/) and [Team Anytype's Vimeo](https://vimeo.com/teamanytype) for some useful information on how to get started.
+4. Off you go! You are now an *Alpha user*. Make sure to check out the [Anytype Docs](https://doc.anytype.io/d/) and [Team Anytype's Vimeo](https://vimeo.com/teamanytype) for some useful information on how to get started.
 
-5. Don't forget to backup your passphrase which acts as your password to be able to regain access if you log out or if you want to login on another device.
+5. Don't forget to back up your passphrase which acts as your password to be able to regain access if you log out or if you want to log in on another device.
 
 6. Don't forget to sign up for the Anytype Community on [Discourse](https://community.anytype.io/) with your other invite code! Any bugs you find or any feature requests you have can be posted there.
 
